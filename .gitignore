@@ -1,3 +1,7 @@
 *.dat
 *.out
 results/
+
+
+#we need these though
+!special.dat
