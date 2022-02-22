@@ -3,3 +3,5 @@ line2
 line 3
 line 4
 Cold and dry, but everything is my fav
+This line added to Alex's copy 
+
